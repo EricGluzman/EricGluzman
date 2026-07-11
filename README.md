@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-- 🌱 I’m currently learning Python & Networks
-- 💬 Ask me about C#
-- ⚡ Fun fact: ...
--->
+Im Eric, and im 17 yo developer.
+Currently Im learning Python and Netwroks.
+My knowledge is: C#, Python, Networks.
+And Im planing to learn a bit of asembly in the future.
